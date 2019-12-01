@@ -1,0 +1,27 @@
+{
+  "name": "todomanager",
+  "version": "1.0.0",
+  "description": "Avaliacao final da disciplina",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagorc/iesb-backend-prova.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Euler Tiago Rodrigues de Carvalho - 1931088044",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagorc/iesb-backend-prova/issues"
+  },
+  "homepage": "https://github.com/tiagorc/iesb-backend-prova#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "uuid": "^3.3.3"
+  }
+}
